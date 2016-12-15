@@ -1,0 +1,103 @@
+body{
+	color: #fb5;
+	background-color: #334;
+}
+a:link{
+	color: #445;
+	background-color: #eb6;
+}
+a:visited{
+	color: #345;
+	background-color: #eb6;
+}
+a:hover{
+	color: #667;
+	background-color: #fb5;
+}
+a:active{
+	color: #778;
+	background-color: #ec8;
+}
+header{
+	color: #ec8;
+	background-color: #334;
+	border-color:#667;
+}
+header nav{
+	color: #455;
+	background-color: #789;
+	border-color:#667;
+}
+article{
+	color: #223;
+	background-color: #edc;
+	border-color:#667;
+}
+header nav ul{
+	border-color:#99a;
+}
+#imagegallery a:link,#imagegallery a:visited{
+	color: #eef;
+	background-color: transparent;
+	border-color: #99a;
+}
+#imagegallery a:hover{
+	color: #445;
+	background-color: #eb6;
+}
+#imagegallery a:active{
+	color: #667;
+	background-color: #ec8;
+}
+
+img{
+	border-color: #ba9;
+	outline-color: #dcb;
+}
+#imagegallery a{
+	background-color: transparent;
+}
+#imagegallery a.here:link,
+#imagegallery a.here:visited,
+#imagegallery a.here:hover,
+#imagegallery a.here:active{
+	color: #eef;
+	background-color: #799 ;
+}
+
+#about header{
+	background-image: url(../images/lineup.gif);
+}
+#photos header{
+	background-image: url(../images/basshead.gif);
+}
+#live header{
+	background-image: url(../images/bassist.gif);
+}
+#contact header{
+	background-image: url(../images/drummer.gif);
+}
+
+tr.odd td{
+	color: #223;
+	background-color: #ec8;
+}
+tr.highlight td{
+	color: #223;
+	background-color: #cba;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
